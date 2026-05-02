@@ -59,6 +59,11 @@ node priority_inbox.js
 You can watch a full demonstration of the application in action here:
 [View Demo Video on Google Drive](https://drive.google.com/file/d/1-psc3DAqKYJfatWgbkYcu7ysR-CAmW4x/view?usp=sharing)
 
+## Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-05-02%20123851.png)
+![Screenshot 2](screenshots/Screenshot%202026-05-02%20123905.png)
+
 ## Technical Stack
 
 - Frontend: Next.js, React, Material UI
