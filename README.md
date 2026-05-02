@@ -54,6 +54,11 @@ node priority_inbox.js
 - Secure Logging: All application activity is logged via the custom middleware, subject to strict character limits.
 - State Persistence: Tracks read and unread status cleanly.
 
+## Demo Video
+
+You can watch a full demonstration of the application in action here:
+[View Demo Video on Google Drive](https://drive.google.com/file/d/1-psc3DAqKYJfatWgbkYcu7ysR-CAmW4x/view?usp=sharing)
+
 ## Technical Stack
 
 - Frontend: Next.js, React, Material UI
