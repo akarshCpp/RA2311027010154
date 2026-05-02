@@ -50,7 +50,8 @@ async function Log(stack, level, packageName, message) {
         });
         
         if (!response.ok) {
-            throw new Error("Log API failed with status: " + response.status);
+            const errBody = await response.text();
+            throw new Error("Log API failed with status: " + response.status + " body: " + errBody);
         }
         
         return await response.json();

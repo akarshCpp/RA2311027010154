@@ -1,0 +1,62 @@
+[
+  {
+    "ID": "51cbe0a0-e8f4-4544-9898-34c48b6b251d",
+    "Type": "Placement",
+    "Message": "Booking Holdings Inc. hiring",
+    "Timestamp": "2026-05-01 23:44:21"
+  },
+  {
+    "ID": "4c172290-69f6-41dd-a377-47bc889e9840",
+    "Type": "Placement",
+    "Message": "Eli Lilly and Company hiring",
+    "Timestamp": "2026-05-01 23:43:57"
+  },
+  {
+    "ID": "815b826c-a21f-47b5-bfec-710a201a59e8",
+    "Type": "Placement",
+    "Message": "Amazon.com Inc. hiring",
+    "Timestamp": "2026-05-01 18:14:09"
+  },
+  {
+    "ID": "b070f840-c952-4299-96b0-6f8cf96792b7",
+    "Type": "Placement",
+    "Message": "Eli Lilly and Company hiring",
+    "Timestamp": "2026-05-01 18:13:45"
+  },
+  {
+    "ID": "088b7b18-5061-40d1-a14b-d528d47d5ba7",
+    "Type": "Placement",
+    "Message": "Microsoft Corporation hiring",
+    "Timestamp": "2026-05-01 14:43:21"
+  },
+  {
+    "ID": "8a108f5e-528d-4973-93e1-7cbf34e4ef58",
+    "Type": "Placement",
+    "Message": "Amgen Inc. hiring",
+    "Timestamp": "2026-05-01 11:43:03"
+  },
+  {
+    "ID": "66b23878-f9fa-44c4-a366-f987ba012242",
+    "Type": "Placement",
+    "Message": "Nvidia Corporation hiring",
+    "Timestamp": "2026-05-01 11:13:15"
+  },
+  {
+    "ID": "c870d388-e364-4cbc-a3d1-d16164d448bf",
+    "Type": "Result",
+    "Message": "end-sem",
+    "Timestamp": "2026-05-02 00:13:39"
+  },
+  {
+    "ID": "5cd71f06-af37-4f3b-97af-36a0d2fc27bd",
+    "Type": "Result",
+    "Message": "end-sem",
+    "Timestamp": "2026-05-01 22:44:03"
+  },
+  {
+    "ID": "cbaf4824-728d-481b-84d1-e741a0f60cd2",
+    "Type": "Result",
+    "Message": "internal",
+    "Timestamp": "2026-05-01 18:13:27"
+  }
+]
